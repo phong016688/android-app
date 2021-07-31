@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CookingGuideApp</string>
+    <string name="home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="favorite">Favorite</string>
+    <string name="splash">Splash</string>
+
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="do_not_have_account">Do not have an Account?</string>
+    <string name="logout">Logout</string>
+    <string name="search">Search</string>
+</resources>

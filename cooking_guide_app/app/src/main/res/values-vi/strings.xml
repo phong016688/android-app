@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CookingGuideApp</string>
+    <string name="home">Trang chủ</string>
+    <string name="dashboard">Bảng điều khiển</string>
+    <string name="notifications">Thông báo</string>
+    <string name="profile">Thông tin người dùng</string>
+    <string name="favorite">Yêu thích</string>
+    <string name="splash">Splash</string>
+
+    <string name="register">Đăng kí</string>
+    <string name="login">Đăng nhập</string>
+    <string name="phone">Số điện thoại</string>
+    <string name="password">Mật khẩu</string>
+    <string name="email">Email</string>
+    <string name="full_name">Tên đầy đủ</string>
+    <string name="confirm_password">Xác nhận mật khẩu</string>
+    <string name="forget_password">Thay đổi mật khẩu?</string>
+    <string name="do_not_have_account">Bạn khôgn có tài khoản?</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="search">Tìm kiếm</string>
+</resources>
